@@ -4,15 +4,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['56945791204, 'oficial, true],
   ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-]
-global.suittag =['5212411719888']
-global.mods = []
-global.prems = ['5212411719888'], 
-global.prems = ['5212411719888'],
-global.APIs = { 
 
   amel: 'https://melcanz.com',
   bx: 'https://bx-hunter.herokuapp.com',
@@ -62,8 +55,8 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓'
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.packname = '©'
+global.author = ' Chéshire'
 global.vs = '1.10.90'
 global.version = vs
 global.gt = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
